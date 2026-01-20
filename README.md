@@ -3,4 +3,6 @@ This is my first attempt at creating a keylogger. It is only used for educationa
 
 The python code is dependent on the keyboard package.
 
+Snake game code written by freegames python package
+
 written by Drew Campbell
