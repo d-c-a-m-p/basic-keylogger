@@ -1,0 +1,3 @@
+To do list:
+- run keylogger without hardcoded vm password
+- send keylogs back to host vm and not to a .txt on the infected computer
