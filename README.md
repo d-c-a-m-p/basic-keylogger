@@ -13,4 +13,6 @@ snakeGameLauncher.py runs both of the above python scripts
 
 I use the subprocess package in the launcher in order to run both scripts and give root access to the keylogger
 
+Snake.zip is a folder that contains the three python scripts, an executable version of snakeGameLauncher.py, and the packages the scripts depend on
+
 written by Drew Campbell
