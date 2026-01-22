@@ -13,9 +13,6 @@ try:
     process.communicate(input="kali")
 except:
     process.kill()
-    
-# runs command again as a fail safe
-subprocess.run(["sudo", "python3", "CSkeyloggerproject.py"])
 
 
 
